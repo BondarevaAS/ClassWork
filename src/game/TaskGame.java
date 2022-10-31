@@ -7,7 +7,6 @@ import java.util.Set;
 public class TaskGame {
     public static void main(String[] args) {
 TaskGame game = new TaskGame();
-        Map map = new Map() {
 
 
     }
